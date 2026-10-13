@@ -9,7 +9,7 @@
 - 交互页面使用确定性合成公式，未接入真实 CAD、商业 CFD 求解器或训练后模型。
 - 提案里的架构、数据预算、时间线、验收门槛和成本模型均为待验证研究设计。
 - 工程结论必须通过原求解器、试验或两者的独立复核；页面不能用于设计、合规或安全批准。
-- 参考图来自 DrivAerNet 公开论文 Fig. 6，仅用于说明工业 CFD 场表达；DynaSolver 只作为公开参考和方法对照。
+- 参考图来自 DrivAerNet 公开论文 Fig. 6，仅用于说明工业 CFD 场表达；DynaSolver 作为方法对照；其本地稿件和原图未上传。许可与裁剪说明见 [ATTRIBUTION.md](ATTRIBUTION.md)。
 
 ## 目录
 
@@ -29,3 +29,4 @@
 - [DrivAerNet](https://arxiv.org/abs/2403.08055)
 - [Transolver](https://arxiv.org/abs/2402.02366)
 - [Foam-Agent](https://arxiv.org/abs/2505.04997)
+

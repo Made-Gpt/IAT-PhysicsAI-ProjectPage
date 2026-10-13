@@ -1,33 +1,9 @@
 {
-  "checks": [
-    {
-      "project": "风噪分析",
-      "pages": 6,
-      "pipeline": "vector PDF + PNG",
-      "links": "valid",
-      "rendered": true
-    },
-    {
-      "project": "除霜仿真",
-      "pages": 6,
-      "pipeline": "vector PDF + PNG",
-      "links": "valid",
-      "rendered": true
-    },
-    {
-      "project": "吹面、吹足",
-      "pages": 6,
-      "pipeline": "vector PDF + PNG",
-      "links": "valid",
-      "rendered": true
-    },
-    {
-      "project": "整车热害",
-      "pages": 6,
-      "pipeline": "vector PDF + PNG",
-      "links": "valid",
-      "rendered": true
-    }
-  ],
-  "browser": "V2 file URL preview blocked by browser protocol policy; local file/link and PDF checks completed. Existing interactive JS unchanged."
+  "verified": "2026-10-13",
+  "staticLinks": "all local HTML href/src targets exist",
+  "proposals": "4 PDFs, 6 pages each",
+  "demos": {"count": 4, "sliders": "passed", "reset": "passed", "modesAndThreshold": "passed", "candidateScanAndInfeasibleCase": "passed", "riskRules": "passed", "mobileWidth390": "passed"},
+  "excluded": ["contracts", "contract text", "private DynaSolver manuscript", "original DynaSolver figures", "research temporary files"],
+  "referenceImage": "DrivAerNet Fig.6; arXiv article CC BY 4.0; details in ATTRIBUTION.md",
+  "publication": "GitHub Pages deployment still pending"
 }
