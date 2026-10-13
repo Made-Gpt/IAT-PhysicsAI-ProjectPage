@@ -1,0 +1,9 @@
+{
+  "verified": "2026-10-13",
+  "staticLinks": "all local HTML href/src targets exist",
+  "proposals": "4 PDFs, 6 pages each",
+  "demos": {"count": 4, "sliders": "passed", "reset": "passed", "modesAndThreshold": "passed", "candidateScanAndInfeasibleCase": "passed", "riskRules": "passed", "mobileWidth390": "passed"},
+  "excluded": ["contracts", "contract text", "private DynaSolver manuscript", "original DynaSolver figures", "research temporary files"],
+  "referenceImage": "DrivAerNet Fig.6; arXiv article CC BY 4.0; details in ATTRIBUTION.md",
+  "publication": "GitHub Pages deployment still pending"
+}
