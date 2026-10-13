@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "project": "风噪分析",
+      "pages": 6,
+      "pipeline": "vector PDF + PNG",
+      "links": "valid",
+      "rendered": true
+    },
+    {
+      "project": "除霜仿真",
+      "pages": 6,
+      "pipeline": "vector PDF + PNG",
+      "links": "valid",
+      "rendered": true
+    },
+    {
+      "project": "吹面、吹足",
+      "pages": 6,
+      "pipeline": "vector PDF + PNG",
+      "links": "valid",
+      "rendered": true
+    },
+    {
+      "project": "整车热害",
+      "pages": 6,
+      "pipeline": "vector PDF + PNG",
+      "links": "valid",
+      "rendered": true
+    }
+  ],
+  "browser": "V2 file URL preview blocked by browser protocol policy; local file/link and PDF checks completed. Existing interactive JS unchanged."
+}
